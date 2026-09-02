@@ -571,7 +571,7 @@ If you use this implementation in academic work, please cite the associated rese
 
 ```bibtex
 @article{neural_symbolic_regression,
-  title   = {Neural Symbolic Regression through Functional Preconditioning and Sparse Equation Recovery},
+  title   = {Neural Symbollic Regression Using Deep Learning and Sparse Modelling},
   authors  = {Ravi Kumar U, Sumitra S},
   journal = {https://arxiv.org/abs/2609.01102},
   year    = {2026}
