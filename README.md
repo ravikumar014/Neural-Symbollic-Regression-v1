@@ -95,10 +95,7 @@ $$
 The network is trained by minimizing mean squared error:
 
 $$
-\mathcal{L}(\theta) {=}
-\frac{1}{N}
-\sum_{i=1}^{N}
-(y_i-\hat{y}_i)^2
+\mathcal{L}(\theta) = \frac{1}{N}\sum_{i=1}^{N}(y_i-\hat{y}_i)^2
 $$
 
 The implementation supports:
