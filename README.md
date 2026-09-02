@@ -95,8 +95,7 @@ $$
 The network is trained by minimizing mean squared error:
 
 $$
-\mathcal{L}(\theta)
-=
+\mathcal{L}(\theta) =
 \frac{1}{N}
 \sum_{i=1}^{N}
 (y_i-\hat{y}_i)^2
@@ -123,8 +122,7 @@ The neural model therefore acts as a **smooth nonlinear preconditioner** before 
 After constructing the feature library, sparse coefficients are recovered using LASSO:
 
 $$
-\boldsymbol{\beta}^{*}
-=
+\boldsymbol{\beta}^{*} =
 \arg\min_{\boldsymbol{\beta}}
 \left[
 \frac{1}{2N}
