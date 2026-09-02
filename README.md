@@ -579,7 +579,7 @@ If you find this work useful, please consider citing:
   archivePrefix = {arXiv},
   url           = {https://arxiv.org/abs/2609.01102}
 }
-
+```
 ---
 
 ## License
