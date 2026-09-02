@@ -1,0 +1,8 @@
+numpy
+scipy
+sympy
+scikit-learn
+matplotlib
+joblib
+ray[tune]
+psutil
