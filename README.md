@@ -567,16 +567,18 @@ Future extensions can investigate adaptive library construction, search-space ro
 
 ## Citation
 
-If you use this implementation in academic work, please cite the associated research paper:
+If you find this work useful, please consider citing:
 
 ```bibtex
-@article{neural_symbolic_regression,
-  title   = {Neural Symbollic Regression Using Deep Learning and Sparse Modelling},
-  authors  = {Ravi Kumar U, Sumitra S},
-  journal = {https://arxiv.org/abs/2609.01102},
-  year    = {2026}
+@article{ravi2026neural,
+  title         = {Neural Symbolic Regression Using Deep Learning and Sparse Modelling},
+  author        = {Ravi Kumar U and Sumitra S},
+  year          = {2026},
+  journal       = {arXiv preprint arXiv:2609.01102},
+  eprint        = {2609.01102},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2609.01102}
 }
-```
 
 ---
 
