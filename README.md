@@ -38,10 +38,10 @@ $$
 
 where:
 
-* \(X\) — input observations
-* \(\Phi(X)\) — nonlinear feature library
+* $X$ — input observations
+* $\Phi(X)$ — nonlinear feature library
 * Neural Network — learns a robust functional representation
-* \(\boldsymbol{\beta}\) — sparse symbolic coefficients
+* $\boldsymbol{\beta}$ — sparse symbolic coefficients
 
 The final expression is reconstructed from the non-zero coefficients.
 
@@ -129,7 +129,7 @@ $$
 \right]
 $$
 
-The \(L_1\) penalty encourages many coefficients to become exactly zero, producing a compact symbolic expression.
+The $L_1$ penalty encourages many coefficients to become exactly zero, producing a compact symbolic expression.
 
 The implementation also supports Elastic Net:
 
